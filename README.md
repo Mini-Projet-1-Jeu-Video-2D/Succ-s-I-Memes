@@ -40,7 +40,7 @@ Le score se définit par : les collectibles, les frôlements, les bonus de victo
 ## Rareté Rare
 
 - Red Bull (Anyme)
-- OIIA OIIA
+- Jackpot
 - Nyan Cat
 - Disparition
 
