@@ -40,27 +40,20 @@ Le score se définit par : les collectibles, les frôlements, les bonus de victo
 ## Rareté Rare
 
 - Red Bull (Anyme)
-- Jackpot
-- Nyan Cat
 - Disparition
+- Jackpot
+- Devil Never Cry
 
 ## Rareté Epique
 
-- Devil Never Cry
 - Hyperdrive
 - Nope
 - Gandalf
+- Death Star
 
 ## Rareté Légendaire
 
 - Thanos
-- Death Star
 - C'est quoi ce monde ?
 - Virtual Insanity
-
-## Rareté Fumée du slip (les succès cachés en gros)
-
 - La peace
-- Spooder-man
-- Le grand monarque
-- Ordre 66
